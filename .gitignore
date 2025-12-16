@@ -48,6 +48,21 @@ out/
 bin/
 
 # NetBeans
+nbproject/
+nbbuild/
+dist/
+nbdist/
+
+# VS Code
+.vscode/
+
+# Database
+*.db
+*.sqlite
+
+# OS Files
+.DS_Store
+Thumbs.db
 nbproject/private/
 build/
 nbbuild/
