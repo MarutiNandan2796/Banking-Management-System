@@ -4,8 +4,13 @@
 ![Maven](https://img.shields.io/badge/Maven-3.8+-green)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+![Version](https://img.shields.io/badge/Version-1.1-brightgreen)
 
 A comprehensive **Banking Management System** built with **Core Java**, **JDBC**, **Maven**, and **MySQL** that demonstrates professional software development practices including CRUD operations, OOP principles, exception handling, logging, password security, and DevOps integration.
+
+## 🚀 Version History
+- **v1.1** - Enhanced documentation and performance improvements
+- **v1.0** - Initial release with core banking features
 
 ---
 
